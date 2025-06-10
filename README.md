@@ -1,4 +1,5 @@
-# Deloitte Machine Learning Challenge: Predict Loan Defaulters
+# Deloitte Machine Learning Challenge: 
+  # Predict Loan Defaulters
 
 [Deloitte Machine Learning Challenge](https://machinehack.com/hackathons/deloitte_presents_machine_learning_challenge_predict_loan_defaulters/overview)
 
