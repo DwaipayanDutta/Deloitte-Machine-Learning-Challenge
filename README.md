@@ -2,6 +2,8 @@
 
 🔗 [Visit Challenge on MachineHack](https://machinehack.com/hackathons/deloitte_presents_machine_learning_challenge_predict_loan_defaulters/overview)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DwaipayanDutta/Deloitte-Machine-Learning-Challenge/HEAD?filepath=Code/deloitte-machine-learning.ipynb)
+
 ---
 
 ## 📌 Overview
