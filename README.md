@@ -56,21 +56,42 @@ The submissions were evaluated using the **Log Loss** metric. The evaluation was
 - Hyperparameter tuning using **Optuna**.
 - 5-fold cross-validation used to ensure model generalization.
 
-### 4. Evaluation
-
-- Out-of-fold log loss: **0.30822**
-- Public leaderboard log loss: **0.35350**
-- Private leaderboard log loss: **0.34099**
-
-### 5. Interpretability
+### 4. Interpretability
 
 - Used **SHAP** (SHapley Additive exPlanations) for model interpretation and to analyze feature importance.
 
 ## Installation
-
 To replicate the environment and run the notebook:
 
 ```bash
 git clone https://github.com/DwaipayanDutta/Deloitte-Machine-Learning-Challenge.git
 cd Deloitte-Machine-Learning-Challenge
 pip install -r requirements.txt
+```
+## Usage
+Run the Jupyter notebook to explore the implementation:
+
+```bash
+jupyter notebook Deloitte_Machine_Learning_Challenge.ipynb
+```
+## Technologies Used
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- XGBoost
+- Optuna
+- SHAP
+- Matplotlib, Seaborn
+
+## 📁 Repository Structure
+```bash
+├── Code/
+│ └── deloitte-machine-learning.ipynb # Main Jupyter Notebook with full solution
+├── Dataset/
+│ └── train.csv # Training dataset
+│ └── test.csv # Test dataset
+└── README.md # This file
+```
+
+
+
